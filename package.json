@@ -1,0 +1,22 @@
+{
+  "name": "dexserver",
+  "version": "1.0.0",
+  "description": "server for a Chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianpoplesanu/DexServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianpoplesanu/DexServer/issues"
+  },
+  "homepage": "https://github.com/adrianpoplesanu/DexServer#readme",
+  "dependencies": {
+    "ws": "^7.2.5"
+  }
+}
